@@ -7,5 +7,4 @@ Docker Image of this Project =>
 This project is deployed on Render => [Live Demo](https://student-performance-prediction-w5ma.onrender.com/predictdata)
 
 
-[![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-green)]([https://student-performance-predictor.onrender.com](https://student-performance-prediction-w5ma.onrender.com/predictdata))
 
